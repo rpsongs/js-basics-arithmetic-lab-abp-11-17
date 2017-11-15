@@ -16,4 +16,4 @@ var ageIsValid =  Number.isInteger(currentAge);
 
 var randomNumber = Math.random();
 var randomInteger = Math.floor(randomNumber);
-var randomUserID = Number.isInteger(randomInteger);
+var randomUserID = Number.isInteger();
